@@ -19,18 +19,6 @@ I am an Information Technology student passionate about:
 
 I enjoy building practical solutions that combine AI, cybersecurity, and modern software engineering to solve real-world problems.
 
-## Repository Contents
-
-* `PROFILE.md` — Detailed personal profile.
-* Future updates may include:
-
-  * Certifications
-  * Learning roadmap
-  * Personal projects
-  * Technical notes
-  * Research interests
-  * Portfolio links
-
 ## Current Focus
 
 * Developing AI-powered applications
@@ -43,6 +31,11 @@ I enjoy building practical solutions that combine AI, cybersecurity, and modern 
 
 My goal is to continuously learn, build meaningful software, and contribute to projects that create real-world impact.
 
+## Let's Connect
+* x:
+    https://x.com/Ala_Alkhudair
+* Linkedin :
+    https://www.linkedin.com/in/al-a-alkhudair-21367b2b5/
 ---
 
 Thank you for 
