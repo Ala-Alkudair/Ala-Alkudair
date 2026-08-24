@@ -38,4 +38,4 @@ My goal is to continuously learn, build meaningful software, and contribute to p
     https://www.linkedin.com/in/al-a-alkhudair-21367b2b5/
 ---
 
-Thank you for 
+Thank you
