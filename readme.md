@@ -40,21 +40,4 @@ Continuously learn, build meaningful software, and contribute to projects that c
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ala-Alkudair&show_icons=true&theme=tokyonight" alt="Ala-Alkudair's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ala-Alkudair&theme=tokyonight" alt="Ala-Alkudair's GitHub streak" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ala-Alkudair&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ala-Alkudair&theme=tokyo-night" alt="Ala-Alkudair's Activity Graph"/>
-</p>
-
----
-
 <p align="center"><i>Thank you for visiting my profile 🚀</i></p>
