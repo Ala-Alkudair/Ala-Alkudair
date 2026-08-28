@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Ala Alkhudair</h1>
-<h3 align="center">Information Technology Student |  ELECTRIC CIRCUITS</h3>
+<h3 align="center">طالبة تقنية معلومات | Electric Circuits</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Aspiring+Software+Engineer;Interested+in+Cybersecurity+%26+AI;Building+with+AI%2C+Robotics+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Interested+in+Cybersecurity+%26+AI;Building+with+AI%2C+Robotics+%26+Automation" alt="Typing SVG" />
 </p>
 
 ---
