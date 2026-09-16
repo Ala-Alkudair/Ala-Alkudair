@@ -7,7 +7,7 @@
 
 ---
 
-### 🔭 Current Focus
+### Current Focus
 
 - Developing AI-powered applications
 - Learning advanced cybersecurity concepts
@@ -15,13 +15,13 @@
 - Exploring AI Agents and automation
 - Expanding knowledge in space science and physics
 
-### 🎯 Goals
+### Goals
 
 Continuously learn, build meaningful software, and contribute to projects that create real-world impact.
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 **Languages**
 
