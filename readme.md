@@ -114,6 +114,4 @@ Continuously learn, build meaningful software, and contribute to projects that c
   <img src="https://img.shields.io/badge/Multer-orange?style=flat-square" alt="multer"/>
 </p>
 
----
 
-<p align="center"><i>Thank you for visiting my profile 🚀</i></p>
